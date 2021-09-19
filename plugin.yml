@@ -1,6 +1,6 @@
 name: JoinUI
 main: JoinUI\Main 
 author: antbag
-api: [3.19.0]
+api: [3.25.0]
 version: 1.0.0
 denpend: FormAPI
